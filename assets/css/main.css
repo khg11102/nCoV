@@ -3506,7 +3506,8 @@
 			left: 1.25em;
 			line-height: inherit;
 			margin: 0;
-			padding: 10;
+			padding: 0;
+			padding-top: 10;
 			position: absolute;
 			top: 0;
 		}
