@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>노노 코로나</title>
+    <link>http://www.nocorona.net/</link>
+    <description>신종 코로나바이러스에 관한 정보를 제공합니다. 나아가 신종 코로나 바이러스의 안전 수칙과 잘못된 정보 또는 루머를 배제한 실시간 정보를 제공합니다.</description>
+    <item>
+      <title>노노 코로나</title>
+      <link>http://www.nocorona.net/index.html</link>
+      <description>신종 코로나 바이러스란?
+WHO 명칭 2019-nCoV는 2019년에 첫 보고된, 심각한 폐질환(우한 폐렴)을 동반한 합병증으로 인한 장기 손상을 유발하는 외가닥 RNA 코로나바이러스다. 발생지의 이름을 따, 신종코로나바이러스, 속칭 우한 폐렴(武漢肺炎) 등으로도 불린다. 이 바이러스는 2019년 중국 우한 폐렴 확산 당시 폐렴 환자의 양성 환자 검체에 대하여 핵산 검사 후 게놈 배열이 결정되었다. 참고로, 코로나 바이러스의 한 종류이지만 신종코로나바이러스에 의한 고양이나 개 등 애완동물의 감염 사례는 나올 수 없다. 고양이나 개 등 반려동물의 세포 수용체가 사람의 것과 완전히 달라서 인간과 동물 상호간에 바이러스를 전파할 수 없기 때문이다. 예외적으로, 사람과 박쥐는 유사한 세포 수용체를 갖고 있어서 바이러스를 옮길 수 있다.)</description>
+      <pubDate>2020.02.02</pubDate>
+      <guid>http://www.nocorona.net/index.html</guid>
+    </item>
+  </channel>
+</rss>
