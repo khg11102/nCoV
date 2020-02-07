@@ -6,4 +6,9 @@
 	<changefreq>weekly</changefreq>
 	<priority>0.8</priority>
   </url>
+	<loc>http://www.nocorona.net/info.html</loc>
+	<lastmod>2020-02-06T20:16:53+09:00</lastmod>
+	<changefreq>weekly</changefreq>
+	<priority>0.8</priority>
+  </url>
 </urlset>
